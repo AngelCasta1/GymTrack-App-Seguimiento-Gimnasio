@@ -60,12 +60,6 @@ gymtracker/
 ├── sw.js                 # Service worker (offline)
 ├── manifest.webmanifest  # Configuración PWA
 ├── icons/                # Iconos de la app
-├── index.html
-├── styles.css
-├── app.js
-├── sw.js
-├── manifest.webmanifest
-├── icons/
 └── README.md
 ```
 
